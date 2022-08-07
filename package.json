@@ -1,0 +1,25 @@
+{
+  "name": "using-npm-packages-example",
+  "version": "0.0.1",
+  "description": "An example project that uses the simple and modern npm packages created by clarkio for demonstration purposes.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clarkio/using-npm-packages-example.git"
+  },
+  "keywords": [],
+  "author": "clarkio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clarkio/using-npm-packages-example/issues"
+  },
+  "homepage": "https://github.com/clarkio/using-npm-packages-example#readme",
+  "dependencies": {
+    "@clarkio/modern-npm-package": "^0.0.1",
+    "@clarkio/simple-npm-package": "^0.0.2"
+  }
+}
