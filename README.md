@@ -2,7 +2,7 @@
 
 # Using npm Packages Example
 
-An example project that uses the simple and modern npm packages created by clarkio for demonstration purposes.
+An example project that uses the [simple](https://github.com/clarkio/simple-npm-package) and [modern](https://github.com/clarkio/modern-npm-package) npm packages created by clarkio for demonstration purposes.
 
 [![Known Vulnerabilities](https://snyk.io/test/github/clarkio/using-npm-packages-example/badge.svg)](https://snyk.io/test/github/clarkio/using-npm-packages-example)
 ![GitHub](https://img.shields.io/github/license/clarkio/using-npm-packages-example)
