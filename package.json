@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/clarkio/using-npm-packages-example#readme",
   "dependencies": {
-    "@clarkio/modern-npm-package": "^0.0.1",
+    "@clarkio/modern-npm-package": "^0.0.2",
     "@clarkio/simple-npm-package": "^0.0.2"
   }
 }
